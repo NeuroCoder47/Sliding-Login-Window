@@ -18,7 +18,7 @@ To run the Thapar Login UI locally, follow these steps:
 The Thapar Login UI allows users to switch between the login and registration forms with a smooth slide animation. Let's take a closer look at how it works:
 
 <p align="center">
-  <img src="https://i.imgur.com/vq4qx3t.gif" alt="Thapar Login UI Animation" width="600">
+  <img src="opt.png" alt="Thapar Login UI Animation" width="600">
 </p>
 
 1. To switch to the registration form, click the "Register" button on the right side.
